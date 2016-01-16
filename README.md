@@ -5,6 +5,8 @@ GA Data Science Course
 Welcome to General Assembly's Data Science course for Singapore, Jan-Apr 2016!
 
 
+Try to `git clone` this README.md.
+
 
 # General materials
 

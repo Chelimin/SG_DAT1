@@ -13,6 +13,8 @@ f.read()        # one big string including newlines
 f.read()        # empty string
 f.close()
 
+
+
 # read one line at a time (entire file does not have to fit into memory)
 f = open('../data/drinks.csv', 'rU')
 f.readline()    # one string per line (including newlines)
