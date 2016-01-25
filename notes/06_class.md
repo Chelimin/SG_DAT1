@@ -4,12 +4,12 @@
 
 ## Review
 
-
+Any clarification required
 
 
 ## Logistic Classification
 
-
+- derive gradient descent and comment on similarity
 
 
 ## Code walkthrough

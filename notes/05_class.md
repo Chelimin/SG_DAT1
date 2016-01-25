@@ -9,7 +9,16 @@
 	* list vs np.array
 	* floating point considerations
 
-
+- Whiteboard sesh:
+	* for, while loops
+	* list comprehension
+	* pandas:
+		- head
+		- describe
+		- columns
+		- info
+		- dropna / fillna
+		- value_counts
 
 ## Linear Algebra
 
