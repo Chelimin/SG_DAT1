@@ -23,7 +23,6 @@ Try to `git clone` this README.md.
 - [Class 6: Logistic Classification](https://github.com/misrab/SG_DAT1/blob/master/notes/06_class.md)
 
 
-
 # Python Resources
 
 - [Codecademy's Python course](http://www.codecademy.com/en/tracks/python): Good beginner material, including tons of in-browser exercises.
@@ -34,6 +33,11 @@ Try to `git clone` this README.md.
 - [Beginner](code/00_python_beginner_workshop.py) and [intermediate](code/00_python_intermediate_workshop.py) workshop code: Useful for review and reference.
 - [Python 2.7x Reference Guide](https://github.com/justmarkham/python-reference/blob/master/reference.py): Kevin's beginner-oriented guide that demonstrates a ton of Python concepts through short, well-commented examples.
 - [Python Tutor](http://pythontutor.com/): Allows you to visualize the execution of Python code.
+- [Learn Pandas](https://bitbucket.org/hrojas/learn-pandas): Comprehensive tutorial for Pandas, using IPython Notebook.
+
+
+# Software
+- [Anaconda installation](https://www.continuum.io/downloads) Python distribution bundled with 300+ of most useful packages for data science. Includes installation of *IPython Notebook*.
 
 # Submission Forms
 
