@@ -16,8 +16,11 @@ Try to `git clone` this README.md.
 
 # Class Notes
 
-- [Class 1: Intro to course and data science, git](https://github.com/misrab/SG_DAT1/notes/01_class.md)
-- [Class 2: Intro to Machine Learning, python and the command line](https://github.com/misrab/SG_DAT1/notes/02_class.md)
+- [Class 1: Intro to course and data science, git](https://github.com/misrab/SG_DAT1/blob/master/notes/01_class.md)
+- [Class 2: Intro to Machine Learning, python and the command line](https://github.com/misrab/SG_DAT1/blob/master/notes/02_class.md)
+
+- [Class 5: Linear Regression](https://github.com/misrab/SG_DAT1/blob/master/notes/05_class.md)
+- [Class 6: Logistic Classification](https://github.com/misrab/SG_DAT1/blob/master/notes/06_class.md)
 
 
 

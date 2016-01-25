@@ -10,6 +10,26 @@ Store the data in a list of lists called 'data'
 Hint: you've already seen this code!
 '''
 
+import csv
+with open('../data/drinks.csv', 'rb') as csvfile:
+    all_rows = csv.reader(csvfile, delimiter=',', quotechar='|')
+    index = 0
+    data = []
+    header = None
+    for row in all_rows:
+        if index == 0:
+            header = row
+        else:
+            data.append(row)
+
+        index +=1
+
+    
+    print header
+    print len(data)
+
+
+
 
 
 '''
