@@ -20,6 +20,10 @@
 		- dropna / fillna
 		- value_counts
 
+
+## Quick intuition behind linear regression
+
+
 ## Linear Algebra
 
 - Linear algebra and matrix review [guide here](http://cs229.stanford.edu/section/cs229-linalg.pdf)
@@ -34,12 +38,11 @@
 ## Probability
 
 
-
 - Probability and stats review [guide here](http://cs229.stanford.edu/section/cs229-prob.pdf)
 	- sample space, event space
 	- prob of an event P: F -> R
-	- Baye's rule
 	- random variables
+	- Baye's rule
 	- cdf
 	- E(X), E(X+Y), E(aX)
 	- Var(X) = E(x-u)^2 = ...; Var(aX)
