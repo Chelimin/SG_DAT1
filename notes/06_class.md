@@ -7,6 +7,9 @@
 Any clarification required
 
 
+## Project time
+
+
 ## Logistic Classification
 
 - derive gradient descent and comment on similarity
